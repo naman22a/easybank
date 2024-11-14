@@ -3,7 +3,7 @@ import './Features.css';
 
 const Features = () => {
     return (
-        <section className="features">
+        <section className="features" id="about">
             <h2>Why choose Easybank?</h2>
             <p>
                 We leverage Open Banking to turn your bank account into your

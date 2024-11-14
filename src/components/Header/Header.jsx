@@ -7,10 +7,8 @@ const Header = () => {
             <img src="/images/logo.svg" alt="" />
             <nav>
                 <a href="#">Home</a>
-                <a href="#">About</a>
-                <a href="#">Contact</a>
-                <a href="#">Blog</a>
-                <a href="#">Careers</a>
+                <a href="#about">About</a>
+                <a href="#articles">Articles</a>
             </nav>
             <button>Request Invite</button>
         </header>
